@@ -4,7 +4,7 @@
   <artifactId>AA_Maven_nexus_GITHUB1</artifactId>
   <version>0.0.1</version>
   <packaging>war</packaging>
-  <build>
+ <build>
 		<testSourceDirectory>src/main/tests</testSourceDirectory>
 		<plugins>
 			<plugin>
@@ -36,5 +36,4 @@
 			<url>http://10.192.109.61:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
-  </build>
 </project>
