@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>AA_Maven_nexus_GITHUB1</groupId>
   <artifactId>AA_Maven_nexus_GITHUB1</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <packaging>war</packaging>
  <build>
 		<testSourceDirectory>src/main/tests</testSourceDirectory>
